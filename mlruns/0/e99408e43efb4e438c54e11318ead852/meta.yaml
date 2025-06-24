@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nikhi/OneDrive/Desktop/mlflow/mlruns/0/e99408e43efb4e438c54e11318ead852/artifacts
+end_time: 1750388521293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e99408e43efb4e438c54e11318ead852
+run_name: bouncy-eel-844
+run_uuid: e99408e43efb4e438c54e11318ead852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750388516773
+status: 4
+tags: []
+user_id: Praneeth

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nikhi/OneDrive/Desktop/mlflow/mlruns/0/8c0c29834d384a07a1ce6b07413da5dc/artifacts
+end_time: 1750389548952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c0c29834d384a07a1ce6b07413da5dc
+run_name: skillful-conch-278
+run_uuid: 8c0c29834d384a07a1ce6b07413da5dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750389546494
+status: 3
+tags: []
+user_id: Praneeth
